@@ -80,6 +80,6 @@ async def mentionall(event):
         usrnum = 0
         usrtxt = ""
 
-print(">> Bot çalıyor merak etme 🚀 @drmehmetaktass bilgi alabilirsin <<")
+print(">> Bot çalıyor merak etme 🚀 @SwixyComebackk bilgi alabilirsin <<")
 client.run_until_disconnected()
  
